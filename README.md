@@ -8,6 +8,19 @@ The Kitty Meow App is a simple React Native application that allows users to pre
 - The meow sound is randomly selected from a collection of adorable kitty meows.
 - Enjoy a different meow every time you press the button, adding variety and surprise.
 
+## Preview of the App
+
+Scan the QR code or open the link in your device
+
+### for iOS devices
+
+Copy this [link](exp://u.expo.dev/update/4ec2f780-92f1-42c1-9bf6-b7bf3056dd7f): exp://u.expo.dev/update/4ec2f780-92f1-42c1-9bf6-b7bf3056dd7f
+![QR code for iOS devices](docs/ios-publish.png)
+
+### for android devices
+
+Copy this [link](exp://u.expo.dev/update/1f586a92-3c41-43a8-9231-ba91d715763a): exp://u.expo.dev/update/1f586a92-3c41-43a8-9231-ba91d715763a
+![QR code for iOS devices](docs/android-publish.png)
 
 ## Installation
 
@@ -33,7 +46,7 @@ After installing and launching the Kitty Meow App, you will be presented with a 
 
 1. Tap the "Meow" button on the screen.
 2. You will hear a delightful kitty meowing sound.
-3. Tap the button again to hear a different meow.
+3. Scroll refresh to see a different kitty meowing sound
 4. Enjoy the adorable sounds of various kitties meowing!
 
 ## Customization
