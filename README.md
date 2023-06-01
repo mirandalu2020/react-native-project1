@@ -1,6 +1,6 @@
 # Kitty Meow App
 
-The Kitty Meow App is a simple React Native application that allows users to press a button and listen to the delightful sound of a kitty meowing. It's a fun and lighthearted app that brings a touch of joy to your day.
+The Kitty Meow App is a simple mobile application built with React Native and Expo. That app allows users to press a button and listen to the delightful sound of a kitty meowing and see randomized kitty images. It's a fun and lighthearted app that brings a touch of joy to your day.
 
 ## Features
 
