@@ -1,7 +1,6 @@
 import { StyleSheet, View, Pressable, Text, Button } from 'react-native';
 import React from 'react'
-import { MeowSound } from './MeowSound';
-const Meow = require('./../../sound/cat.mp3')
+const Meow = require('./../../assets/sound/cat.mp3')
 import { Audio } from 'expo-av';
 import { styles } from './../../styles'
 import { useFonts, CuteFont_400Regular } from '@expo-google-fonts/cute-font';
