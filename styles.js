@@ -42,7 +42,9 @@ export const styles = StyleSheet.create({
     margin: 5,
   },
   button: {
+    borderWidth: 2,
     borderRadius: 10,
+    fontSize: 20,
     width: '100%',
     height: '100%',
     alignItems: 'center',
@@ -59,5 +61,6 @@ export const styles = StyleSheet.create({
   },
   text: {
     fontFamily: 'CuteFont_400Regular',
+    fontSize: 25,
   }
 });
